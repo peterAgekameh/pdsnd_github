@@ -10,13 +10,16 @@ This project was named according to the python file
 
 ## Description
 These project shows the usefull insights drawn from python code
-
+## Module
+* _Datetime_ module
 ## Library used
 * _pandas_ library
 * _numpy_ library
 
+
 ### Files used
 * _bikeshare_.py
+
 
 
 ### Credits
